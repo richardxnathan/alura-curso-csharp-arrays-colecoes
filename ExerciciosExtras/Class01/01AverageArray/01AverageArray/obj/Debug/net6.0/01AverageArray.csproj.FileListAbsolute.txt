@@ -1,0 +1,14 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-arrays-colecoes\ExerciciosExtras\Class01\01AverageArray\01AverageArray\bin\Debug\net6.0\01AverageArray.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-arrays-colecoes\ExerciciosExtras\Class01\01AverageArray\01AverageArray\bin\Debug\net6.0\01AverageArray.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-arrays-colecoes\ExerciciosExtras\Class01\01AverageArray\01AverageArray\bin\Debug\net6.0\01AverageArray.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-arrays-colecoes\ExerciciosExtras\Class01\01AverageArray\01AverageArray\bin\Debug\net6.0\01AverageArray.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-arrays-colecoes\ExerciciosExtras\Class01\01AverageArray\01AverageArray\bin\Debug\net6.0\01AverageArray.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-arrays-colecoes\ExerciciosExtras\Class01\01AverageArray\01AverageArray\obj\Debug\net6.0\01AverageArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-arrays-colecoes\ExerciciosExtras\Class01\01AverageArray\01AverageArray\obj\Debug\net6.0\01AverageArray.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-arrays-colecoes\ExerciciosExtras\Class01\01AverageArray\01AverageArray\obj\Debug\net6.0\01AverageArray.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-arrays-colecoes\ExerciciosExtras\Class01\01AverageArray\01AverageArray\obj\Debug\net6.0\01AverageArray.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-arrays-colecoes\ExerciciosExtras\Class01\01AverageArray\01AverageArray\obj\Debug\net6.0\01AverageArray.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-arrays-colecoes\ExerciciosExtras\Class01\01AverageArray\01AverageArray\obj\Debug\net6.0\refint\01AverageArray.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-arrays-colecoes\ExerciciosExtras\Class01\01AverageArray\01AverageArray\obj\Debug\net6.0\01AverageArray.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-arrays-colecoes\ExerciciosExtras\Class01\01AverageArray\01AverageArray\obj\Debug\net6.0\01AverageArray.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-arrays-colecoes\ExerciciosExtras\Class01\01AverageArray\01AverageArray\obj\Debug\net6.0\ref\01AverageArray.dll
